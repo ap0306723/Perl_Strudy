@@ -1,2 +1,2 @@
-# Perl_Strudy
+# Perl_Study
 my Perl code
